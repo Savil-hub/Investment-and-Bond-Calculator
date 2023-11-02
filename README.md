@@ -1,2 +1,2 @@
-# projects
-my projects that i have worked on
+# Finance calculator
+Here is simple fiance c

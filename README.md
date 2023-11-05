@@ -1,26 +1,27 @@
 # Investment and Bond Calculator
-This Python script allows users to calculate the interest earned on an investment or the monthly repayment amount for a home loan (bond). Users can choose between simple and compound interest calculations for investments, and the script provides results based on the user's inputs. It's a user-friendly financial tool that simplifies the process of estimating returns on investments and understanding bond repayments.
 
-how to use this Python script:
+## Description
 
-Run the Script:
+The Investment and Bond Calculator is a simple Python script that allows users to perform two types of financial calculations:
 
-Start by running the Python script in your preferred development environment or command line.
-Choose Calculation Type:
+1. **Investment:** Calculate the amount of interest you'll earn on your investment over a specified period, taking into account the choice of simple or compound interest.
 
-The script will present you with two options: "investment" or "bond."
-Select Calculation Type:
+2. **Bond:** Calculate the monthly repayment amount required to pay off a home loan based on the principal amount, annual interest rate, and the number of months.
 
-Type "investment" if you want to calculate the interest earned on an investment.
-Type "bond" if you want to calculate the monthly repayment amount for a home loan.
-Enter Information:
+This project provides a convenient tool for individuals who want to estimate their potential investment returns or determine their monthly bond repayments.
 
-Depending on your choice:
-For "investment," you'll need to provide the initial amount you're depositing, the interest rate (in percentage), the number of years for your investment, and whether you want "simple" or "compound" interest.
-For "bond," you'll need to provide the present value of your house, the annual interest rate (in percentage), and the number of months you plan to repay the bond.
-Get Results:
+## Table of Contents
 
-After entering the required information, the script will calculate and display the results. For investments, it will show you the interest earned, and for bonds, it will show you the monthly repayment amount.
-Repeat or Exit:
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example](#example)
+- [Credits](#credits)
 
-You can choose to run the script again to perform another calculation or exit the program.
+## Installation
+
+To run the Investment and Bond Calculator on your local machine, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/yourusername/investment-bond-calculator.git
